@@ -62,10 +62,10 @@
         </div>
 
         <div class="overflow-x-auto">
-            <div class="flex items-center justify-center font-sans overflow-hidden">
+            <div class="font-sans overflow-hidden">
                 <div class="w-full">
-                    <div class="bg-white shadow-md rounded my-6">
-                        <table class="min-w-max w-full table-auto">
+                    <div class="bg-white shadow-md rounded my-6 overflow-x-auto ">
+                        <table class="min-w-max w-full">
                             <thead>
                                 <tr class="text-back border-slate-400 text-sm leading-normal">
                                     <th class="py-5 px-6 text-left"><input type="checkbox" name="" id=""></th>
